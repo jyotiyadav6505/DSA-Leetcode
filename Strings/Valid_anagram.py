@@ -15,7 +15,7 @@ class Solution(object):
             count [ch] -= 1
 
             if count[ch] < 0:
-                return Fasle 
+                return False
 
         return True
         
