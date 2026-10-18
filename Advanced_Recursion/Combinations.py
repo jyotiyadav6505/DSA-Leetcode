@@ -1,4 +1,3 @@
-```python
 class Solution(object):
     def combine(self, n, k):
         result = []
