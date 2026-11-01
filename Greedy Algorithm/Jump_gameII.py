@@ -12,3 +12,4 @@ class Solution(object):
                 current_end = farthest
 
         return jumps
+F
